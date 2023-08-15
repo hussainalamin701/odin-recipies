@@ -9,28 +9,11 @@ body{
     text-align: center;
 }
 
-img{
-    text-align: center;
-}
-
-a{
-    position: absolute;
-}
-
-ol{
+ul{
     list-style-type: none;
-    text-align: center;
 }
 
-
-ol li{
-    font-weight: bold;
-    text-align: center;
-}
-
-img{
-    padding: 1.2px;
-    border: 2.1px solid black;
-    border-radius: 10%;
-    width:20%;
+ul li{
+    display: block;
+    padding: 10px;
 }
